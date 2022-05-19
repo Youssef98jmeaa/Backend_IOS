@@ -1,0 +1,4 @@
+{
+    "database" : "mongodb+srv://josef:josef@cluster0.fv0jh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority&readPreference=primary&retryWrites=true&ssl=true",
+    "token_secret" : "token-secret !!"
+}
